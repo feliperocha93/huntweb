@@ -15,3 +15,7 @@ https://skylab.rocketseat.com.br/node/curso-react-js
 - BrowserRouter: Indica que o react-router-dom será usado dentro do Browser
 - Switch: Defini que somente um componente pode ser reinderizado de cada vez, ou seja, faz literalmente um switch entre as rotas
 - Route: Faz uma 'conexão lógica' entre caminho e componente. O uso do atributo exact diz para o Route que o path deve ser exatamente igual a rota recebida, já que por default ele tem um comportamento diferente. Se ele receber uma rota '/string' e, além de um Route com esse path, também existir um com path = '/', ele irá navegar para o path que encontrar primeiro, podendo causar um bug na aplicação.
+
+#### Atividades extras:
+- Criar um component footer
+- Criar um botão de voltar para home
