@@ -1,4 +1,5 @@
 import React from 'react';
+import Routes from './routes';
 import './App.css'
 
 import Header from './components/Header/header';
@@ -7,7 +8,7 @@ import Main from './pages/main/main';
 const App = () => (
     <div className="App">
       <Header />
-      <Main />
+      <Routes />
     </div>
   );
 
