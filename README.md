@@ -17,5 +17,6 @@ https://skylab.rocketseat.com.br/node/curso-react-js
 - Route: Faz uma 'conexão lógica' entre caminho e componente. O uso do atributo exact diz para o Route que o path deve ser exatamente igual a rota recebida, já que por default ele tem um comportamento diferente. Se ele receber uma rota '/string' e, além de um Route com esse path, também existir um com path = '/', ele irá navegar para o path que encontrar primeiro, podendo causar um bug na aplicação.
 
 #### Atividades extras:
-- Criar um component footer
+- Criar um component footer :heavy_check_mark:
 - Criar um botão de voltar para home
+- Criar uma feature para mostrar na tela a página atual

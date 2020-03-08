@@ -1,7 +1,11 @@
 .product-list {
   margin: 20px auto 0;
   max-width: 700px;
+  min-height: calc(100vh - 60px - 20px - 30px);
   padding: 0 20px;
+  /*Cálculo de min-height: (Tamanho da tela - Header - margin-botton da div - Footer)
+  Propriedade para que o footer fique no fim da tela quando a quantidade
+  de produtos não preenche toda a altura da tela do usuário*/ 
 }
 
 .product-list article {
