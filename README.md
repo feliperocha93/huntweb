@@ -19,4 +19,4 @@ https://skylab.rocketseat.com.br/node/curso-react-js
 #### Atividades extras:
 - Criar um component footer :heavy_check_mark:
 - Criar um botão de voltar para home :heavy_check_mark:
-- Criar uma feature para mostrar na tela a página atual
+- Criar uma feature para mostrar na tela a página atual :heavy_check_mark:

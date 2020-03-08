@@ -45,6 +45,7 @@
 }
 
 .product-list .actions {
+  align-items: center;
   display: flex;
   justify-content: space-between;
   margin-bottom: 20px;
@@ -68,4 +69,9 @@
 
 .product-list .actions button:not([disabled]):hover {
   opacity: .7;
+}
+
+.product-list .actions span {
+  color: #999;
+  letter-spacing: 3px;
 }
